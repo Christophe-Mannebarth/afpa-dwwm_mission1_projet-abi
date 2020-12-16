@@ -12,6 +12,10 @@ Dossier technique:
   - Dossier en pdf (69 pages): https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
   - Modalité des choix CSS: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/modalite_pratiques_css_groupe2.pdf
   - Synthèse finale: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/vecuDevWebABIDL_groupe2.pdf
+  
+Organisation du travail: 
+- Planning: https://trello.com/afpadwwm_mission2
+- Maquettage: https://www.figma.com/file/fzLSRHjbeLjBntEZAtp7tM/Maquette_ABI?node-id=0%3A1
 
 Dans un premier temps, votre mission consiste à concevoir l'interface homme-machine, 
 c'est-à-dire concevoir le dialogue général du site et structurer les futures pages Web.
