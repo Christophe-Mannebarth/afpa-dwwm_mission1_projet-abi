@@ -1,6 +1,8 @@
 # afpa-dwwm_mission1_projet-abi
 Je réalise le design des pages d'un site Web et je développe les traitements côté client
 
+La page d'accueil du site: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/index.html
+
 Présentation du site:
   - video: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.mp4
   - PDF: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.pdf
