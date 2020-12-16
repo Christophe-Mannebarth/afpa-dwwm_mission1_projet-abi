@@ -9,7 +9,7 @@ Présentation du site:
   - Sitemap: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/sitemap_projet_ABI_groupe2.pdf
   
 Dossier technique:
-  - Dossier en pdf: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
+  - Dossier en pdf (69 pages): https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
   - Modalité des choix CSS: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/modalite_pratiques_css_groupe2.pdf
   - Synthèse finale: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/vecuDevWebABIDL_groupe2.pdf
 
