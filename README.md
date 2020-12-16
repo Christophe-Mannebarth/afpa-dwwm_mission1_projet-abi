@@ -1,4 +1,4 @@
-# afpa-dwwm_mission1_projet-abi
+# Mission 2 Projet ABI
 Je réalise le design des pages d'un site Web et je développe les traitements côté client
 
 La page d'accueil du site: https://christophe-mannebarth.github.io/afpa-dwwm_mission1_projet-abi/index.html
@@ -20,17 +20,18 @@ Organisation du travail:
 Dans un premier temps, votre mission consiste à concevoir l'interface homme-machine, 
 c'est-à-dire concevoir le dialogue général du site et structurer les futures pages Web.
 
-Votre supérieur Eugène Kitbridge vous a prévenu : "Il ne s'agit pas de développer un site complet 
-mais de travailler sur une sélection de fonctionnalités à infiltrer que vous choisirez 
-parmi toutes celles qui sont envisagées. "
+Votre supérieur Eugène Kitbridge vous a prévenu : 
+  "Il ne s'agit pas de développer un site complet 
+  mais de travailler sur une sélection de fonctionnalités à infiltrer que vous choisirez 
+  parmi toutes celles qui sont envisagées. "
 
-"Vous définirez d'abord la structure HTML des pages Web nécessaires. "
+  "Vous définirez d'abord la structure HTML des pages Web nécessaires. "
 
-"Vous devrez ensuite assurer une présentation impeccable par CSS pour les pages conçues, 
-conformément à la charte graphique"
+  "Vous devrez ensuite assurer une présentation impeccable par CSS pour les pages conçues, 
+  conformément à la charte graphique"
 
-"Puis vous ajouterez de l'interactivité là où cela sera nécessaire. 
-Et tout cela doit paraître très pro et sécurisé ! "
+  "Puis vous ajouterez de l'interactivité là où cela sera nécessaire. 
+  Et tout cela doit paraître très pro et sécurisé ! "
 
 Pour ce faire, vous devrez découvrir et mettre en œuvre, avec les membres de votre équipe, 
 les différents outils, langages et techniques nécessaires pour développer des pages statiques 
