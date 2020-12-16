@@ -1,17 +1,17 @@
 # Mission 2 Projet ABI
 Je réalise le design des pages d'un site Web et je développe les traitements côté client
 
-La page d'accueil du site: https://christophe-mannebarth.github.io/afpa-dwwm_mission1_projet-abi/index.html
+La page d'accueil du site: https://christophe-mannebarth.github.io/afpa-dwwm_mission2_projet-abi/index.html
 
 Présentation du site:
-  - video: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.mp4
-  - PDF: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.pdf
-  - Sitemap: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/visite_guidee/sitemap_projet_ABI_groupe2.pdf
+  - video: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.mp4
+  - PDF: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/visite_guidee/presentation_projet_ABI_groupe2.pdf
+  - Sitemap: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/visite_guidee/sitemap_projet_ABI_groupe2.pdf
   
 Dossier technique:
-  - Dossier en pdf (69 pages): https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
-  - Modalité des choix CSS: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/modalite_pratiques_css_groupe2.pdf
-  - Synthèse finale: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission1_projet-abi/blob/main/dossier_technique/vecuDevWebABIDL_groupe2.pdf
+  - Dossier en pdf (69 pages): https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
+  - Modalité des choix CSS: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/dossier_technique/modalite_pratiques_css_groupe2.pdf
+  - Synthèse finale: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission2_projet-abi/blob/main/dossier_technique/vecuDevWebABIDL_groupe2.pdf
   
 Organisation du travail: 
 - Planning: https://trello.com/afpadwwm_mission2
